@@ -65,3 +65,7 @@ Coming from Swift and iOS development, I'm curious to explore the "other side"�
 ---
 
 Made with curiosity and determination by [@whispem](https://github.com/whispem) 🦀✨
+
+---
+
+If you spot anything that could be written in a more idiomatic or elegant Rust style, I’m always curious to understand why.
